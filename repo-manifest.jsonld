@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/canonical/jenkins-k8s-operator/commit/bae70e437c92ac58930308087e234be2b9ba504d",
       "git:hexsha": "bae70e437c92ac58930308087e234be2b9ba504d",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "tf-1.4.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "tf-1.4.0",
+      "repolex:parsedAt": "2026-11-08T04:47:28.220700+00:00"
     },
     {
       "@id": "https://repolex.ai/r/canonical/jenkins-k8s-operator/commit/a603f6043e2d0c1c6e9c37e9b3c752fbe3349151",
