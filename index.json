@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "jenkins-k8s-operator",
+  "versions": [
+    {
+      "commit": "bae70e437c92ac58930308087e234be2b9ba504d",
+      "tag": "jenkins-k8s-rev403",
+      "parsed_at": "2026-11-08T04:47:28.222204+00:00"
+    }
+  ]
+}
